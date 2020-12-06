@@ -1,0 +1,31 @@
+11/13/2020 5:58:31 PM
+192.168.1.44
+
+PSComputerName           : 192.168.1.44
+RunspaceId               : b4f74575-8500-4e16-8a07-b78b0ee287cc
+ComputerName             : one.one.one.one
+RemoteAddress            : 1.0.0.1
+ResolvedAddresses        : {1.0.0.1, 1.1.1.1}
+PingSucceeded            : True
+PingReplyDetails         : System.Net.NetworkInformation.PingReply
+TcpClientSocket          : 
+TcpTestSucceeded         : False
+RemotePort               : 0
+TraceRoute               : 
+Detailed                 : True
+InterfaceAlias           : Ethernet
+InterfaceIndex           : 15
+InterfaceDescription     : Intel(R) Ethernet Connection (7) I219-V
+NetAdapter               : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{94937B8B-6623-4F6A-A084-2BFCF5928E45}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "Jordan")
+NetRoute                 : MSFT_NetRoute (InstanceID = ":8:8:8:9:55;?55;C?8;@B8;8;55;")
+SourceAddress            : MSFT_NetIPAddress (Name = ";C?8;@B8;8??55;?55;55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NameResolutionSucceeded  : True
+BasicNameResolution      : {Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_A, Microsoft.DnsClient.Commands.DnsRecord_A}
+LLMNRNetbiosRecords      : {}
+DNSOnlyRecords           : {Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_A, Microsoft.DnsClient.Commands.DnsRecord_A}
+AllNameResolutionResults : {Microsoft.DnsClient.Commands.DnsRecord_A, Microsoft.DnsClient.Commands.DnsRecord_A, Microsoft.DnsClient.Commands.DnsRecord_AAAA, Microsoft.DnsClient.Commands.DnsRecord_AAAA}
+IsAdmin                  : False
+NetworkIsolationContext  : Internet
+MatchingIPsecRules       : 
+
+
